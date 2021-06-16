@@ -47,10 +47,8 @@ color:#744253;
 font-size: 16px;
 }
 
-a{
-link: #414E42;
-visited: #744253;
-hover: #D52941;
-active: black;
-}
+a:link    { color: #414E42;  }
+a:visited { color: black;   }
+a:hover   { color: #744253; }
+a:active  { color: #D52941;  }
 
