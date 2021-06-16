@@ -25,18 +25,18 @@ main, footer, header {
 
 ul{
   list-style-position: inside;
-  color:#4b2b35;
+  color:#18030a;
 }
 ol{
   list-style-position: inside;
-  color:#4b2b35;
+  color:#18030a;
 
 }
 
 /* text formating */
 
 h1, h2, h3, h4 {
-  color: #414E42;
+  color: #18030a;
   font-family: monospace,Arial, Helvetica, sans-serif;
   font-weight: bold;
 }
@@ -49,5 +49,5 @@ font-size: 16px;
 
 a:link    { color: #414E42;  }
 a:visited { color: black;   }
-a:hover   { color: #4b2b35; }
+a:hover   { color: red; }
 a:active  { color: #D52941;  }
